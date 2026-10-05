@@ -123,4 +123,4 @@ Convergence (static shift or radial yoke) and tier 2 are the most costly options
 
 ## Credits and licence
 
-Written by the L.E.D. owner. MIT Licence.
+Written by the L.E.D. owner.
