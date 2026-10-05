@@ -122,4 +122,4 @@ Convergence (static shift or radial yoke) and tier 2 are the most costly options
 
 ## Credits and licence
 
-Written by the repository owner. Add your preferred licence here (for example MIT) and any credits you want to include.
+Written by the L.E.D. owner. MIT Licence.
