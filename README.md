@@ -3,7 +3,7 @@
 A feature-rich CRT simulation shader for RetroArch, ported from a [ReShade shader](https://github.com/JBW-byte/CRT-Mame-Advance-Four)
  originally written for the MAME emulator. It is a 3-pass Slang preset with a shared parameter include, and every effect is toggleable from the RetroArch shader parameter menu.
 
-> **Version:** v5.3 Production Edition
+> **Version:** v5.4 Production Edition
 
 ---
 
